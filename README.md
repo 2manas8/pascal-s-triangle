@@ -1,2 +1,2 @@
 # pascal-s-triangle
-Couldn't figure out my mistake. Outputs the wrong value after input = 4.
+Unfinished code. Brain hurts right now will come back to this later.
