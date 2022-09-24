@@ -1,2 +1,2 @@
 # pascal-s-triangle
-Unfinished code. Brain hurts right now will come back to this later.
+Unfinished code. Head hurts right now. Will come back to this later.
