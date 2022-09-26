@@ -21,7 +21,7 @@ int main() {
 				x = 1;
 			}
 			else {
-				x *= (i - j + 1) / j;
+				x = (x * (i - j + 1)) / j;
 			}
 			std::cout << x << " ";
 		}
